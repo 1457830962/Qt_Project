@@ -65,7 +65,7 @@ int main(int argc, char *argv[])
 //    cin>>p2;
 //    cout<<p2<<endl;
     char p3[20];
-    cin.get(p3,20);//可以进行空格键入   注意
+    cin.get(p3,20);//可以进行空格键入   注意和gets函数用法区别
     cout<<p3<<endl;
      string str="sjdfasdf";
      cout<<str<<endl;
