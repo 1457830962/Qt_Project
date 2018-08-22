@@ -64,10 +64,11 @@ int main(int argc, char *argv[])
 //    char p2;//只能保存一位并进行输出
 //    cin>>p2;
 //    cout<<p2<<endl;
-    char p3[20];//可以进行空格键入
-    cin.get(p3,20);
+    char p3[20];
+    cin.get(p3,20);//可以进行空格键入   注意和gets函数用法区别
     cout<<p3<<endl;
-     string str="sjdfasdf";
+     string str="sjdfasdf";//随便输入一串字符
+     
      cout<<str<<endl;
 
     return a.exec();
