@@ -16,7 +16,7 @@ public:
     explicit ThirdForm(QWidget *parent = 0);
     ~ThirdForm();
 private slots:   //注意定义槽函数的方式
-    void doProcessTimeOut();
+    void doProcessTimeOut();//计时器
     void doProcessBacktoTwoForm(bool);
 
 private:
