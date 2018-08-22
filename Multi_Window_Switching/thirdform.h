@@ -15,7 +15,7 @@ class ThirdForm : public QWidget
 public:
     explicit ThirdForm(QWidget *parent = 0);
     ~ThirdForm();
-private slots:
+private slots:   //注意定义槽函数的方式
     void doProcessTimeOut();
     void doProcessBacktoTwoForm(bool);
 
@@ -25,7 +25,7 @@ private:
     QTimer *mytimer;
     void Init();//初始化函数
 
-signals:
+signals://定义信号
     void SignalShowTwoForm(QString);
 };
 
