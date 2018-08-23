@@ -34,7 +34,7 @@ void ThirdForm::Init()
 //=================slots===============================//
 void ThirdForm::doProcessTimeOut()
 {
-    count++;
+    count++;//记录一下点击的次数
     if(count==1000)
     {
         count=0;
@@ -43,10 +43,10 @@ void ThirdForm::doProcessTimeOut()
 }
 
 
-//============slots===================//
+//====================slots===============================//
 void ThirdForm::doProcessBacktoTwoForm(bool)
 {
     count++;
-    emit SignalShowTwoForm(QString::number(count));//发射信号
+    emit SignalShowTwoForm(QString::number(count));//发射信号  通知显示第二个界面
     this->hide();//点击返回第二个界面按钮后隐藏第三个界面
 }
