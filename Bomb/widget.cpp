@@ -33,9 +33,7 @@ void Widget::Init()
     movie = new QMovie(this);
     movie->setFileName("./timg.gif");
     ui->label->setMovie(movie);
-    ui->label->setScaledContents(true);//label中的内容跟随窗体变大而变大
-
-
+    ui->label->setScaledContents(true);//label中的内容跟随窗体变大而变大  注意了
 }
 
 
