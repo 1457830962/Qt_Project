@@ -20,7 +20,7 @@ private:
     Ui::Widget *ui;
     void Init();
     int count;//用于计时
-    QTimer *mytimer;
+    QTimer *mytimer;//注意学习这里定时器是如何使用的
     QMovie *movie;//定义为全局
 
 private slots:
