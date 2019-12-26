@@ -1,6 +1,6 @@
-/home/philip/Documents/Qt_Project/bad/bad/000_0_1.bmp 362 257.5 00  361.406 595.875 01 338.375
-/home/philip/Documents/Qt_Project/bad/bad/000_0_100.bmp 290.5 264 10  264.913 597.875 00 333.875
-/home/philip/Documents/Qt_Project/bad/bad/000_0_101.bmp 221 260 00  329.375 587.5 00 327.5
+/home/philip/Documents/
+/home/philip/Documents/Qt_Pr
+/home/philip/Documents/Qt_Proj
 /home/philip/Documents/Qt_Project/bad/bad/000_0_108.bmp 252 265 10  302.912 597.875 00 332.875
 /home/philip/Documents/Qt_Project/bad/bad/000_0_119.bmp 281.906 216.75 00  255.812 569.375 00 352.625
 /home/philip/Documents/Qt_Project/bad/bad/000_0_22.bmp 257.075 258.875 00  287.875 592.5 00 333.625
