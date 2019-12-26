@@ -26,4 +26,4 @@
 /home/philip/Documents/Qt_Project/bad/specialBad/000_0000_108.bmp 527.629 186.875 00  184.354 338.75 00 0.1
 /home/philip/Documents/Qt_Project/bad/specialBad/000_0000_112.bmp 527.629 186.875 00  184.354 338.75 00 0.1
 /home/philip/Documents/Qt_Project/bad/test1/000_0_1.bmp 362 257.5 00  361.406 595.875 01 338.375
-/home/philip/Documents/Qt_Project/bad/test1/标定A2.jpg 362 257.5 00  
+/home/philip/Documents/  
