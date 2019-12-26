@@ -28,3 +28,4 @@
 /home/philip/Documents/Qt_Project/bad/test1/000_0_1.bmp 362 257.5 00  361.406 595.875 01 338.375
 om  
 AAAAAAAAAA
+AAAAAAAAA
