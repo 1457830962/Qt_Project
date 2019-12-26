@@ -18,9 +18,9 @@
 /home/philip/Documents/Qt_Project/bad/single/000_1_146.bmp 257.075 258.875 01  287.875 592.5 01 0.1
 /home/philip/Documents/Qt_Project/bad/single/000_1_17.bmp 527.629 186.875 00  184.354 338.75 00 151.875
 /home/philip/Documents/Qt_Project/bad/single/000_1_21.bmp 527.629 186.875 00  184.354 338.75 00 0.1
-/home/philip/Documents/Qt_Project/bad/single/000_1_34.bmp 527.629 186.875 00  184.354 338.75 00 0.1
-/home/philip/Documents/Qt_Project/bad/single/000_3_401.bmp 527.629 186.875 00  184.354 338.75 00 0.1
-/home/philip/Documents/Qt_Project/bad/single/000_3_841111.bmp 527.629 186.875 00  184.354 338.75 00 0.1
+/home/philip/Documents/Qt_Project/bad/single/000_1_34.bmp 527.629 
+/home/philip/Documents/Qt_Project/bad/single/000_3_401.bmp 527.62
+/home/philip/Documents/Qt_Project/bad/single/000_3_841111.bmp 
 /home/philip/Documents/Qt_Project/bad/specialBad/000_0000_100.bmp 527.629 186.875 00  184.354 338.75 00 0.1
 /home/philip/Documents/Qt_Project/bad/specialBad/000_0000_104.bmp 527.629 186.875 00  184.354 338.75 00 0.1
 /home/philip/Documents/Qt_Project/bad/specialBad/000_0000_108.bmp 527.629 186.875 00  184.354 338.75 00 0.1
