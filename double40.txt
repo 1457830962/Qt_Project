@@ -1,5 +1,5 @@
 /home/philip/Documents/CCCCCCCCCCCC
-/home/philip/Documents/Qt_Pr
+/home/philip/Documents/Qt_PrCCCCCCCCC
 /home/philip/Documents/Qt_ProjCCCCCCCCCCCCCCCCCCCC
 /home/philip/Documents/Qt_Project/bad/bad/000_0_108.bmp 252 265 10  302.912 597.875 00 332.875
 /home/philip/Documents/Qt_Project/bad/bad/000_0_119.bmp 281.906 216.75 00  255.812 569.375 00 352.625
